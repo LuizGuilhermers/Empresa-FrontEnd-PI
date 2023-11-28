@@ -1,0 +1,20 @@
+{
+  "empresa": [
+    {
+      "id": 1,
+      "nome": "Senai2",
+      "cnpj": "4587",
+      "endereco": "ndjsns",
+      "socios": "vcccjd",
+      "faturamento": "nnjcn"
+    },
+    {
+      "id": 2,
+      "nome": "senai",
+      "cnpj": "",
+      "endereco": "",
+      "socios": "",
+      "faturamento": ""
+    }
+  ]
+}
